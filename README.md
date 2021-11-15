@@ -5,3 +5,4 @@
 + we need to import pandas to writeback to alteryx
 + can have all the business logic on data processing
 + from alteryx there can be a consumption by tableau, powerbi, jupyter...
++ containers and annotations are good for workflow documentation
